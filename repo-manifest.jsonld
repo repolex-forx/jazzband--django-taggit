@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-taggit/commit/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
       "git:hexsha": "e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T19:35:41.254645+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-taggit/commit/e0d3de776dbaa2cb2d84fe60ce9449ea7ca7d1fa",
